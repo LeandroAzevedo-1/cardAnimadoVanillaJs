@@ -6,10 +6,10 @@
 
 - Animação com Vanilla JavaScript [https://micku7zu.github.io/vanilla-tilt.js]
 
-<div>
-    <img src="src/imagem/Screenshot_14.png">
-    <img src="src/imagem/Screenshot_205.png">
-    <img src="src/imagem/Screenshot_204.png">
+<div  style="display= block">
+    <img src="src/imagem/Screenshot_14.png" width="400">
+    <img src="src/imagem/Screenshot_205.png" width="400">
+    <img src="src/imagem/Screenshot_204.png" width="400" heigth="200">
 </div>
 
 ## Tecnologias utilizadas 
