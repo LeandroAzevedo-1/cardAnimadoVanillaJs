@@ -2,6 +2,8 @@
 
 - Nessa animação trabalhei com o display flex para ficar responsivo o card
 
+     <a href="https://leandroazevedo-1.github.io/cardAnimadoVanillaJs/" target="_blank">Clique Aqui e veja como ficou</a>
+
 - Animação com Vanilla JavaScript [https://micku7zu.github.io/vanilla-tilt.js]
 
 <div>
